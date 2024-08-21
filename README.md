@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since April 2024<br>📚 I'm currently learning node.js<br>🎯 Goals: To become a fill-stack developer<br>🎲 Fun fact: The first ever computer virus, called "Creeper," was created in the early 1970s. It displayed the message, "I'm the creeper, catch me if you can!" and moved between mainframe computers on ARPANET.</p>
+<p align="left">✨ Creating bugs since April 2024<br>📚 I'm currently learning node.js<br>🎯 Goals: To become a full-stack developer<br>🎲 Fun fact: The first ever computer virus, called "Creeper," was created in the early 1970s. It displayed the message, "I'm the creeper, catch me if you can!" and moved between mainframe computers on ARPANET.</p>
 
 ###
 
